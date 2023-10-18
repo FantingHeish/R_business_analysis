@@ -1,0 +1,7 @@
+"The file 4_purchase_history contains the entire purchase history up to the end of June 2020 of the cohort of 500 consumers. Each record in this file, 1766 in total, comprises four fields",
+,
+variables,description 
+consumer_id,the customer's ID
+purchase_date,the date of the transaction
+quantity,the number of chocolate purchased
+total_amount,the value of the transaction (in pounds).

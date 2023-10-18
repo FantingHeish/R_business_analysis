@@ -1,0 +1,9 @@
+variable,description
+time,month
+radio,monthly ads spending on radio in thousand pounds
+magazines,monthly ads spending on magazines in thousand pounds
+social_media,monthly ads spending on social media in thousand pounds 
+search_ads,monthly ads spending on search engine in thousand pounds 
+tv,monthly ads spending on TV in thousand pounds 
+newspaper,monthly ads spending on newspaper in thousand pounds 
+sales,monthly sales in thousand pounds

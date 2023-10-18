@@ -1,0 +1,33 @@
+variable,description,
+caseid,Serial number,
+country,Country in which survey is carried out,1 is UK and >1 is rest of the world
+purchaselabel,Whether the sustainable labeled product purchase or not. 1 purchase 0 not,
+gender,1,Male
+,2,Female
+gender_rev,0,Male
+,1,Female
+agegroup,1,15-24 years
+,2,25-34 years
+,3,35-44 years
+,4,45-54 years
+,5,55-64 years
+,6,65 years and older
+ruralurban,1,Rural area or Village
+,2,Small or medium sized town
+,3,Large town/City
+GDP,GDP,
+BMI,BodyMassIndex,
+children,1,Yes
+,0,No children
+numchild,No. of Children,
+education_rev,1,No full-time education
+,2,Up to 14years
+,3,15 years
+,4,16 years
+,5,17 years
+,6,18 years
+,7,19 years
+,8,20 years
+,9,21 years
+,10,22 years and more
+trustngo,Whether people trust NGOs or not,

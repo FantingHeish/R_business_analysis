@@ -1,0 +1,9 @@
+Variables,Description
+Age_Group,age group (1 is less than 20 years; 2 is in between 20 and  35; 3 is in between 35 and 45; 4 is 45 years above)
+Gender,"gender (1 is male, 2 is female)"
+Salary,"salary in British pounds (0.  None, 1. 1 to 9999, 2. 10000 to 14999 3. 15000 to 24999 4. 25000 to 39999 5. 40000 to 59999 6. 60000 and above 7. Prefer not to answer)"
+Education,"education (1 is high school, 2 is bachelors', 3 is PG and 4 is international PG)"
+Location_by_region,"consumer location by region (1 is UK,  2 is USA, >2  is rest of the world)"
+Choco_Consumption,"chocolate consumption level (0 is no consumption, 1 - 3 is regular consumption, the higher the more regular)"
+Sustainability_Score,"consumer's sustainability score ( < 0 is less sensitive to sustainability, >0 is more sensitive to sustainability)"
+Employment,employment. 1. Employed full time 2. Employed part time 3. Student (full-time) 4. Student (part-time) 5. Self-employed >5. Other

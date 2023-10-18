@@ -1,0 +1,1 @@
+the file 6_groceries contains a historical transaction data over a certain period of time from a major supermarket partner about consumers groceries shopping basket in relation to certain items. 
